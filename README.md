@@ -1,2 +1,2 @@
-# dupladochurros
-site de para contratação de churros gourmet
+# dupla dos churros
+site para contratação de serviõ, onde fornce churros gourmet para eventos.
