@@ -41,3 +41,9 @@ div>button{
     height: 350px;
     color: aliceblue;
 }
+
+#logo{
+    width: 400px;
+    margin-top: -70px;
+    margin-bottom: -100px;
+}
