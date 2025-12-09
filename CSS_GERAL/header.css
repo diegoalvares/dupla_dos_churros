@@ -37,11 +37,6 @@ header>nav>ul>li>a{
     margin: 6.5px;
 }
 
-div>img{
-    margin-top: 249px;
-    height: 230px;
-}
-
 div>button{
     margin-top: 190px;
     height: 350px;
@@ -51,4 +46,25 @@ div>button{
     width: 150px;
     height: 150px;
     margin-top: 20px;
+}
+
+#churros1, #churros2, #churros3{
+    margin-top: 245px;
+}
+
+#churros1{
+    width: 750px !important;
+    height: 300px !important;
+}
+
+#churros2{
+    width: 380px !important;
+    margin-left: 0px !important;
+    height: 300px !important;
+}
+
+#churros3{
+    width: 1060px !important;
+    height: 300px !important;
+    margin-left: -340px !important;
 }
